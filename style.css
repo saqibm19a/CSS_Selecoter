@@ -1,0 +1,56 @@
+/* UNIVERSAL SELECTOR */
+
+/* *{
+    color: brown;
+} */
+
+/* TYPE SELECTOR */
+
+/* SINGLE SELECTOR */
+
+/* h1{
+    color: blue;
+} */
+
+/* MULTIPLE */
+
+/* h1,span{
+    background-color: aqua;
+} */
+
+/* CLASS SELECTOR */
+
+/* .practic{
+    background-color: black;
+    color: aquamarine;
+} */
+
+/* CLASS SELECTOR */
+
+/* #select_U{
+    color: blueviolet;
+} */
+
+/* CHILD SELECTOR */
+
+/* div > span > h1{
+    color: red;
+} */
+
+/* DESCENDENT SELECTOR */
+
+/* div h1{
+    color: green;
+} */
+
+/* ADJACENT SIBLING SELECTOR */
+
+/* h1+p{
+    color: green;
+} */
+
+/* GENERAL SIBLING SELECTOR */
+
+/* h1~p{
+    color: gold;
+} */
